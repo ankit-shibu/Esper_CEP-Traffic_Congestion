@@ -1,0 +1,4113 @@
+[
+  {
+  	"key":"14/09/2019 14:25",
+	"value":{ 
+	"type":1,
+    "id": 6639,
+    "time": "14/09/2019 14:25",
+    "intensity": 12940,
+    "velocity": 7,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 175,
+    "weather_status": "partly-cloudy-day"
+  }},
+  {
+  "key":"14/09/2019 14:30",
+  "value": {
+  	"type":1,
+    "id": 6639,
+    "time": "14/09/2019 14:30",
+    "intensity": 12700,
+    "velocity": 4,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 1110,
+    "weather_status": "partly-cloudy-day"
+  }},
+  {
+  "key":"14/09/2019 14:35",
+  "value":
+  {
+  	"type":1,
+    "id": 6639,
+    "time": "14/09/2019 14:35",
+    "intensity": 14020,
+    "velocity": 1,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 169,
+    "weather_status": "partly-cloudy-day"
+  }},
+  {
+  "key":"14/09/2019 14:40",
+  "value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 14:40",
+    "intensity": 3360,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 49,
+    "weather_status": "partly-cloudy-day"
+  }},
+  {
+  "key":"14/09/2019 14:45",
+  "value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 14:45",
+    "intensity": 4140,
+    "velocity": 68,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 63,
+    "weather_status": "partly-cloudy-day"
+  }},
+  {
+  "key":"14/09/2019 14:50",
+  "value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 14:50",
+    "intensity": 3420,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 26,
+    "weather_status": "partly-cloudy-day"
+  }},
+  {
+  "key":"14/09/2019 14:55",
+  "value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 14:55",
+    "intensity": 3180,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 48,
+    "weather_status": "partly-cloudy-day"
+  }},
+  {
+  "key":"14/09/2019 15:00",
+  "value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:00",
+    "intensity": 2520,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 70,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 15:05",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:05",
+    "intensity": 3120,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 61,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 15:10",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:10",
+    "intensity": 2820,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 15:15",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:15",
+    "intensity": 2820,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 56,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 15:20",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:20",
+    "intensity": 2520,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 15:25",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:25",
+    "intensity": 1800,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 51,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 15:30",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:30",
+    "intensity": 2100,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 49,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 15:35",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:35",
+    "intensity": 3060,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 48,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 15:40",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:40",
+    "intensity": 1680,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 46,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 15:45",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:45",
+    "intensity": 3120,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 50,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 15:50",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:50",
+    "intensity": 2100,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 15:55",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:55",
+    "intensity": 1920,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 47,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 16:00",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:00",
+    "intensity": 2280,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 44,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 16:05",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:05",
+    "intensity": 1860,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 50,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 16:10",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:10",
+    "intensity": 2100,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 49,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 16:15",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:15",
+    "intensity": 1860,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 44,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 16:20",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:20",
+    "intensity": 2220,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 42,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 16:25",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:25",
+    "intensity": 1860,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 35,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 16:30",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:30",
+    "intensity": 2340,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 32,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 16:35",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:35",
+    "intensity": 2640,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 38,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 16:40,
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:40",
+    "intensity": 2160,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 44,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 16:45",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:45",
+    "intensity": 1740,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 30,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 16:50",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:50",
+    "intensity": 3120,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 26,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 16:55",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:55",
+    "intensity": 3120,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 34,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 17:00",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:00",
+    "intensity": 3060,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 42,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 17:05",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:05",
+    "intensity": 3300,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 43,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 17:10",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:10",
+    "intensity": 2580,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 17:15",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:15",
+    "intensity": 3900,
+    "velocity": 70,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 48,
+    "weather_status": "partly-cloudy-day"
+  }}
+]
+{
+  "key":"14/09/2019 17:20",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:20",
+    "intensity": 2400,
+    "velocity": 65,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 52,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 17:25",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:25",
+    "intensity": 2460,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 41,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 17:30",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:30",
+    "intensity": 3180,
+    "velocity": 71,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 47,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 17:35",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:35",
+    "intensity": 2760,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 43,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 17:40",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:40",
+    "intensity": 2700,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 40,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 17:45",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:45",
+    "intensity": 3600,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 59,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 17:50",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:50",
+    "intensity": 3660,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 58,
+    "weather_status": "partly-cloudy-day"
+  }
+}
+
+{
+  "key":"14/09/2019 17:55",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:55",
+    "intensity": 3360,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 44,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 18:00",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:00",
+    "intensity": 2340,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 44,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 18:05",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:05",
+    "intensity": 4800,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 48,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 18:10",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:10",
+    "intensity": 2880,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 38,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 18:15",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:15",
+    "intensity": 3900,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 43,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 18:20",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:20",
+    "intensity": 3480,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 40,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 18:25",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:25",
+    "intensity": 3900,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 65,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 18:30",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:30",
+    "intensity": 2760,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 35,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 18:35",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:35",
+    "intensity": 2640,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 52,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 18:40",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:40",
+    "intensity": 2880,
+    "velocity": 71,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 45,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 18:45",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:45",
+    "intensity": 3540,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 56,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 18:50",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:50",
+    "intensity": 3000,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 51,
+    "weather_status": "partly-cloudy-day"
+  }},
+{
+  "key":"14/09/2019 18:55",
+"value":
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:55",
+    "intensity": 3840,
+    "velocity": 65,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 71,
+    "weather_status": "partly-cloudy-day"
+  }}
+
+,
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:00",
+    "intensity": 2220,
+    "velocity": 62,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 121,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:10",
+    "intensity": 3480,
+    "velocity": 70,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 51,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:15",
+    "intensity": 3420,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:20",
+    "intensity": 3300,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 48,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:25",
+    "intensity": 3180,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 69,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:30",
+    "intensity": 4020,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 49,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:35",
+    "intensity": 3600,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 51,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:40",
+    "intensity": 2760,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 49,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:45",
+    "intensity": 3960,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 59,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:50",
+    "intensity": 4740,
+    "velocity": 70,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 66,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:55",
+    "intensity": 3900,
+    "velocity": 70,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 64,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:00",
+    "intensity": 3960,
+    "velocity": 70,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 50,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:05",
+    "intensity": 3240,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 45,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:10",
+    "intensity": 3660,
+    "velocity": 68,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 54,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:15",
+    "intensity": 4140,
+    "velocity": 65,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 58,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:20",
+    "intensity": 4080,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 60,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:25",
+    "intensity": 4140,
+    "velocity": 71,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 69,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:30",
+    "intensity": 3660,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 64,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:35",
+    "intensity": 3480,
+    "velocity": 69,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 61,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:40",
+    "intensity": 3900,
+    "velocity": 67,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 62,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:45",
+    "intensity": 3600,
+    "velocity": 68,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 46,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:50",
+    "intensity": 3660,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 51,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:55",
+    "intensity": 4200,
+    "velocity": 69,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 41,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:00",
+    "intensity": 3540,
+    "velocity": 71,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 58,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:05",
+    "intensity": 4080,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 85,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:10",
+    "intensity": 3540,
+    "velocity": 65,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 62,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:15",
+    "intensity": 4860,
+    "velocity": 67,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 62,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:20",
+    "intensity": 3900,
+    "velocity": 68,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 64,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:25",
+    "intensity": 3420,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 73,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:30",
+    "intensity": 3960,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:35",
+    "intensity": 3780,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 63,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:40",
+    "intensity": 3360,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 60,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:45",
+    "intensity": 3420,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 76,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:50",
+    "intensity": 2880,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 53,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:55",
+    "intensity": 2820,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 43,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 22:00",
+    "intensity": 2520,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 22:05",
+    "intensity": 2280,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 75,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:00",
+    "intensity": 1320,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 62,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:05",
+    "intensity": 1200,
+    "velocity": 86,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 43,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:10",
+    "intensity": 2040,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 57,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:15",
+    "intensity": 1560,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 41,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:20",
+    "intensity": 1380,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 56,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:25",
+    "intensity": 1980,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 48,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:30",
+    "intensity": 1860,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 56,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:35",
+    "intensity": 1260,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 60,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:40",
+    "intensity": 1560,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 60,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:45",
+    "intensity": 1560,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:50",
+    "intensity": 1740,
+    "velocity": 71,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 38,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:55",
+    "intensity": 1320,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 60,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:00",
+    "intensity": 1200,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 56,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:05",
+    "intensity": 1260,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 61,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:10",
+    "intensity": 1560,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 84,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:15",
+    "intensity": 1500,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 40,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:20",
+    "intensity": 1680,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 69,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:25",
+    "intensity": 1320,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 58,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:30",
+    "intensity": 1260,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 43,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:35",
+    "intensity": 1320,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 47,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:40",
+    "intensity": 1860,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 52,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:45",
+    "intensity": 1080,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 45,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:50",
+    "intensity": 1920,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 38,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:55",
+    "intensity": 1740,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 41,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:00",
+    "intensity": 1080,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 32,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:05",
+    "intensity": 1380,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 50,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:10",
+    "intensity": 1200,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 36,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:15",
+    "intensity": 1320,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 37,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:20",
+    "intensity": 1380,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 42,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:25",
+    "intensity": 900,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 32,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:30",
+    "intensity": 960,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 58,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:35",
+    "intensity": 840,
+    "velocity": 86,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 36,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:40",
+    "intensity": 600,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 39,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:45",
+    "intensity": 840,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 28,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:50",
+    "intensity": 660,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 47,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:55",
+    "intensity": 720,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 38,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:00",
+    "intensity": 840,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 38,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:05",
+    "intensity": 780,
+    "velocity": 84,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 45,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:10",
+    "intensity": 960,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 29,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:15",
+    "intensity": 540,
+    "velocity": 87,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 47,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:20",
+    "intensity": 840,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 22,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:25",
+    "intensity": 720,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:30",
+    "intensity": 780,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:35",
+    "intensity": 540,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 19,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:40",
+    "intensity": 960,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 16,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:45",
+    "intensity": 840,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 11,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:50",
+    "intensity": 1020,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 16,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:55",
+    "intensity": 420,
+    "velocity": 86,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 17,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:00",
+    "intensity": 720,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:05",
+    "intensity": 600,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 11,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:10",
+    "intensity": 720,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 13,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:15",
+    "intensity": 540,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 25,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:20",
+    "intensity": 660,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 22,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:25",
+    "intensity": 480,
+    "velocity": 86,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 19,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:30",
+    "intensity": 360,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 21,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:35",
+    "intensity": 240,
+    "velocity": 89,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 20,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:40",
+    "intensity": 180,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 19,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:45",
+    "intensity": 540,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 19,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:50",
+    "intensity": 360,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 22,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:55",
+    "intensity": 300,
+    "velocity": 98,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:00",
+    "intensity": 180,
+    "velocity": 89,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 25,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:05",
+    "intensity": 300,
+    "velocity": 90,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 21,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:10",
+    "intensity": 600,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 19,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:15",
+    "intensity": 600,
+    "velocity": 87,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 11,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:20",
+    "intensity": 240,
+    "velocity": 94,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 12,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:25",
+    "intensity": 480,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 13,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:30",
+    "intensity": 300,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:35",
+    "intensity": 60,
+    "velocity": 64,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 10,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:40",
+    "intensity": 300,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:45",
+    "intensity": 360,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 13,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:50",
+    "intensity": 420,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 16,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:55",
+    "intensity": 240,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:00",
+    "intensity": 360,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:05",
+    "intensity": 120,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:10",
+    "intensity": 360,
+    "velocity": 92,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:15",
+    "intensity": 480,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 5,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:20",
+    "intensity": 180,
+    "velocity": 89,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 7,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:25",
+    "intensity": 180,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 4,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:30",
+    "intensity": 540,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 10,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:35",
+    "intensity": 240,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:40",
+    "intensity": 540,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:45",
+    "intensity": 120,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 4,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:50",
+    "intensity": 660,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 7,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:55",
+    "intensity": 240,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 10,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:00",
+    "intensity": 360,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:05",
+    "intensity": 120,
+    "velocity": 87,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:10",
+    "intensity": 480,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 14,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:15",
+    "intensity": 480,
+    "velocity": 84,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 10,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:20",
+    "intensity": 240,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 4,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:25",
+    "intensity": 420,
+    "velocity": 66,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:30",
+    "intensity": 840,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 10,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:35",
+    "intensity": 180,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 12,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:40",
+    "intensity": 240,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:45",
+    "intensity": 960,
+    "velocity": 87,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 28,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:50",
+    "intensity": 540,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:55",
+    "intensity": 720,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 12,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:00",
+    "intensity": 540,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:05",
+    "intensity": 300,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:10",
+    "intensity": 720,
+    "velocity": 84,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 10,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:15",
+    "intensity": 660,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 12,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:20",
+    "intensity": 600,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 11,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:25",
+    "intensity": 360,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:30",
+    "intensity": 420,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 3,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:35",
+    "intensity": 720,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 6,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:40",
+    "intensity": 540,
+    "velocity": 84,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:45",
+    "intensity": 360,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 14,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:50",
+    "intensity": 960,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:55",
+    "intensity": 480,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 11,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 8:00",
+    "intensity": 600,
+    "velocity": 87,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "partly-cloudy-night"
+  }
+]{
+    "id": 6639,
+    "time": "14/09/2019 15:05",
+    "intensity": 3120,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 61,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:10",
+    "intensity": 2820,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:15",
+    "intensity": 2820,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 56,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:20",
+    "intensity": 2520,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:25",
+    "intensity": 1800,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 51,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:30",
+    "intensity": 2100,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 49,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:35",
+    "intensity": 3060,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 48,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:40",
+    "intensity": 1680,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 46,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:45",
+    "intensity": 3120,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 50,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:50",
+    "intensity": 2100,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 15:55",
+    "intensity": 1920,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 47,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:00",
+    "intensity": 2280,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 44,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:05",
+    "intensity": 1860,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 50,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:10",
+    "intensity": 2100,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 49,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:15",
+    "intensity": 1860,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 44,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:20",
+    "intensity": 2220,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 42,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:25",
+    "intensity": 1860,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 35,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:30",
+    "intensity": 2340,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 32,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:35",
+    "intensity": 2640,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 38,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:40",
+    "intensity": 2160,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 44,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:45",
+    "intensity": 1740,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 30,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:50",
+    "intensity": 3120,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 26,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 16:55",
+    "intensity": 3120,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 34,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:00",
+    "intensity": 3060,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 42,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:05",
+    "intensity": 3300,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 43,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:10",
+    "intensity": 2580,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:15",
+    "intensity": 3900,
+    "velocity": 70,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 48,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:20",
+    "intensity": 2400,
+    "velocity": 65,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 52,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:25",
+    "intensity": 2460,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 41,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:30",
+    "intensity": 3180,
+    "velocity": 71,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 47,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:35",
+    "intensity": 2760,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 43,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:40",
+    "intensity": 2700,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 40,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:45",
+    "intensity": 3600,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 59,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:50",
+    "intensity": 3660,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 58,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 17:55",
+    "intensity": 3360,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 44,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:00",
+    "intensity": 2340,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 44,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:05",
+    "intensity": 4800,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 48,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:10",
+    "intensity": 2880,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 38,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:15",
+    "intensity": 3900,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 43,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:20",
+    "intensity": 3480,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 40,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:25",
+    "intensity": 3900,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 65,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:30",
+    "intensity": 2760,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 35,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:35",
+    "intensity": 2640,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 52,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:40",
+    "intensity": 2880,
+    "velocity": 71,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 45,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:45",
+    "intensity": 3540,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 56,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:50",
+    "intensity": 3000,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 51,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 18:55",
+    "intensity": 3840,
+    "velocity": 65,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 71,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:00",
+    "intensity": 2220,
+    "velocity": 62,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 121,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:10",
+    "intensity": 3480,
+    "velocity": 70,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 51,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:15",
+    "intensity": 3420,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:20",
+    "intensity": 3300,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 48,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:25",
+    "intensity": 3180,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 69,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:30",
+    "intensity": 4020,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 49,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:35",
+    "intensity": 3600,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 51,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:40",
+    "intensity": 2760,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 49,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:45",
+    "intensity": 3960,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 59,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:50",
+    "intensity": 4740,
+    "velocity": 70,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 66,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 19:55",
+    "intensity": 3900,
+    "velocity": 70,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 64,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:00",
+    "intensity": 3960,
+    "velocity": 70,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 50,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:05",
+    "intensity": 3240,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 45,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:10",
+    "intensity": 3660,
+    "velocity": 68,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 54,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:15",
+    "intensity": 4140,
+    "velocity": 65,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 58,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:20",
+    "intensity": 4080,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 60,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:25",
+    "intensity": 4140,
+    "velocity": 71,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 69,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:30",
+    "intensity": 3660,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 64,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:35",
+    "intensity": 3480,
+    "velocity": 69,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 61,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:40",
+    "intensity": 3900,
+    "velocity": 67,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 62,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:45",
+    "intensity": 3600,
+    "velocity": 68,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 46,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:50",
+    "intensity": 3660,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 51,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 20:55",
+    "intensity": 4200,
+    "velocity": 69,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 41,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:00",
+    "intensity": 3540,
+    "velocity": 71,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 58,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:05",
+    "intensity": 4080,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 85,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:10",
+    "intensity": 3540,
+    "velocity": 65,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 62,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:15",
+    "intensity": 4860,
+    "velocity": 67,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 62,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:20",
+    "intensity": 3900,
+    "velocity": 68,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 64,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:25",
+    "intensity": 3420,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 73,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:30",
+    "intensity": 3960,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:35",
+    "intensity": 3780,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 63,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:40",
+    "intensity": 3360,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 60,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:45",
+    "intensity": 3420,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 76,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:50",
+    "intensity": 2880,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 53,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 21:55",
+    "intensity": 2820,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 43,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 22:00",
+    "intensity": 2520,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 22:05",
+    "intensity": 2280,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 75,
+    "weather_status": "rain"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:00",
+    "intensity": 1320,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 62,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:05",
+    "intensity": 1200,
+    "velocity": 86,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 43,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:10",
+    "intensity": 2040,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 57,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:15",
+    "intensity": 1560,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 41,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:20",
+    "intensity": 1380,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 56,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:25",
+    "intensity": 1980,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 48,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:30",
+    "intensity": 1860,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 56,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:35",
+    "intensity": 1260,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 60,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:40",
+    "intensity": 1560,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 60,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:45",
+    "intensity": 1560,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 55,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:50",
+    "intensity": 1740,
+    "velocity": 71,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 38,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "14/09/2019 23:55",
+    "intensity": 1320,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 60,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:00",
+    "intensity": 1200,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 56,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:05",
+    "intensity": 1260,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 61,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:10",
+    "intensity": 1560,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 84,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:15",
+    "intensity": 1500,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 40,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:20",
+    "intensity": 1680,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 69,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:25",
+    "intensity": 1320,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 58,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:30",
+    "intensity": 1260,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 43,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:35",
+    "intensity": 1320,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 47,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:40",
+    "intensity": 1860,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 52,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:45",
+    "intensity": 1080,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 45,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:50",
+    "intensity": 1920,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 38,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 0:55",
+    "intensity": 1740,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 41,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:00",
+    "intensity": 1080,
+    "velocity": 72,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 32,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:05",
+    "intensity": 1380,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 50,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:10",
+    "intensity": 1200,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 36,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:15",
+    "intensity": 1320,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 37,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:20",
+    "intensity": 1380,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 42,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:25",
+    "intensity": 900,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 32,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:30",
+    "intensity": 960,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 58,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:35",
+    "intensity": 840,
+    "velocity": 86,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 36,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:40",
+    "intensity": 600,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 39,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:45",
+    "intensity": 840,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 28,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:50",
+    "intensity": 660,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 47,
+    "weather_status": "partly-cloudy-day"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 1:55",
+    "intensity": 720,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 38,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:00",
+    "intensity": 840,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 38,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:05",
+    "intensity": 780,
+    "velocity": 84,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 45,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:10",
+    "intensity": 960,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 29,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:15",
+    "intensity": 540,
+    "velocity": 87,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 47,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:20",
+    "intensity": 840,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 22,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:25",
+    "intensity": 720,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:30",
+    "intensity": 780,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:35",
+    "intensity": 540,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 19,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:40",
+    "intensity": 960,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 16,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:45",
+    "intensity": 840,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 11,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:50",
+    "intensity": 1020,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 16,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 2:55",
+    "intensity": 420,
+    "velocity": 86,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 17,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:00",
+    "intensity": 720,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:05",
+    "intensity": 600,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 11,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:10",
+    "intensity": 720,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 13,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:15",
+    "intensity": 540,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 25,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:20",
+    "intensity": 660,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 22,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:25",
+    "intensity": 480,
+    "velocity": 86,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 19,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:30",
+    "intensity": 360,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 21,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:35",
+    "intensity": 240,
+    "velocity": 89,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 20,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:40",
+    "intensity": 180,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 19,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:45",
+    "intensity": 540,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 19,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:50",
+    "intensity": 360,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 22,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 3:55",
+    "intensity": 300,
+    "velocity": 98,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:00",
+    "intensity": 180,
+    "velocity": 89,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 25,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:05",
+    "intensity": 300,
+    "velocity": 90,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 21,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:10",
+    "intensity": 600,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 19,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:15",
+    "intensity": 600,
+    "velocity": 87,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 11,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:20",
+    "intensity": 240,
+    "velocity": 94,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 12,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:25",
+    "intensity": 480,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 13,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:30",
+    "intensity": 300,
+    "velocity": 74,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:35",
+    "intensity": 60,
+    "velocity": 64,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 10,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:40",
+    "intensity": 300,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:45",
+    "intensity": 360,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 13,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:50",
+    "intensity": 420,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 16,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 4:55",
+    "intensity": 240,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:00",
+    "intensity": 360,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:05",
+    "intensity": 120,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:10",
+    "intensity": 360,
+    "velocity": 92,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:15",
+    "intensity": 480,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 5,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:20",
+    "intensity": 180,
+    "velocity": 89,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 7,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:25",
+    "intensity": 180,
+    "velocity": 75,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 4,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:30",
+    "intensity": 540,
+    "velocity": 73,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 10,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:35",
+    "intensity": 240,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:40",
+    "intensity": 540,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:45",
+    "intensity": 120,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 4,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:50",
+    "intensity": 660,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 7,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 5:55",
+    "intensity": 240,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 10,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:00",
+    "intensity": 360,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:05",
+    "intensity": 120,
+    "velocity": 87,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:10",
+    "intensity": 480,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 14,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:15",
+    "intensity": 480,
+    "velocity": 84,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 10,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:20",
+    "intensity": 240,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 4,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:25",
+    "intensity": 420,
+    "velocity": 66,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:30",
+    "intensity": 840,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 10,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:35",
+    "intensity": 180,
+    "velocity": 80,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 12,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:40",
+    "intensity": 240,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:45",
+    "intensity": 960,
+    "velocity": 87,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 28,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:50",
+    "intensity": 540,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 6:55",
+    "intensity": 720,
+    "velocity": 77,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 12,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:00",
+    "intensity": 540,
+    "velocity": 81,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:05",
+    "intensity": 300,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:10",
+    "intensity": 720,
+    "velocity": 84,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 10,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:15",
+    "intensity": 660,
+    "velocity": 79,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 12,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:20",
+    "intensity": 600,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 11,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:25",
+    "intensity": 360,
+    "velocity": 78,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:30",
+    "intensity": 420,
+    "velocity": 82,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 3,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:35",
+    "intensity": 720,
+    "velocity": 83,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 6,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:40",
+    "intensity": 540,
+    "velocity": 84,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 8,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:45",
+    "intensity": 360,
+    "velocity": 88,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 14,
+    "weather_status": "fog"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:50",
+    "intensity": 960,
+    "velocity": 76,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 9,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 7:55",
+    "intensity": 480,
+    "velocity": 85,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 11,
+    "weather_status": "partly-cloudy-night"
+  },
+  {
+    "id": 6639,
+    "time": "15/09/2019 8:00",
+    "intensity": 600,
+    "velocity": 87,
+    "lon": -3.671563131,
+    "lat": 40.49167558,
+    "tweet_count": 18,
+    "weather_status": "partly-cloudy-night"
+  }
+]
